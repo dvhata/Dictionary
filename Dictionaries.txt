@@ -1,0 +1,4 @@
+hello	xinchao
+bye	tambiet
+apple	qua tao
+banana	qua chuoi
